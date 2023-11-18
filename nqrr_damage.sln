@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nqrr_damage", "nqrr_damage\nqrr_damage.csproj", "{EEFD1EAB-D070-4F51-8233-CD64E168850E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFD1EAB-D070-4F51-8233-CD64E168850E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFD1EAB-D070-4F51-8233-CD64E168850E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFD1EAB-D070-4F51-8233-CD64E168850E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFD1EAB-D070-4F51-8233-CD64E168850E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
